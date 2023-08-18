@@ -1,0 +1,7 @@
+.vd-debug-component {
+  @apply my-4;
+
+  .vd-content {
+    @apply text-xs text-yellow-500 flex-wrap;
+  }
+}

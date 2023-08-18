@@ -1,0 +1,6 @@
+// Form only styles.
+// All form related styles should go here.
+
+.action-btn {
+  @apply bg-blue-600 hover:bg-blue-700 text-white py-1 px-3 rounded-sm;
+}
